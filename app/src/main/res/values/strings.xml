@@ -108,4 +108,5 @@
 
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="action_settings_headers">Settings with Headers</string>
+    <string name="example_switch">example_switch</string>
 </resources>
